@@ -1,6 +1,6 @@
 
 title: Guven Ozgur
-url: 'https://github.com/guvenozgur/guvenozgur.github.io.git'
+url: 'https://github.com/guvenozgur'
 baseurl: '/guvenozgur.github.io' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
